@@ -1,4 +1,4 @@
-### Last project of the web dev OCs cursus
+### Dernier Projet du curcus web-dev de OCs
 
 Compétences :
 
